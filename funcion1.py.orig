@@ -7,4 +7,8 @@ Created on Wed Dec 21 20:05:40 2016
 
 def funcion1():
     print('Primera funcion de mi projecttwo')
+<<<<<<< HEAD
     print('Modifico la primera funcion 2')
+=======
+    print('Modifico la primera funcion3')
+>>>>>>> creando error1
